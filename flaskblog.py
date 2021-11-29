@@ -17,8 +17,6 @@ posts = [
     }
 ]
 
-# git test
-
 @app.route("/")
 @app.route("/home")
 def home_page():
